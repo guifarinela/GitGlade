@@ -29,3 +29,4 @@ c:\GitGrove\ProjetoFar\obj\Debug\net6.0\refint\ProjetoFar.dll
 c:\GitGrove\ProjetoFar\obj\Debug\net6.0\ProjetoFar.pdb
 c:\GitGrove\ProjetoFar\obj\Debug\net6.0\ProjetoFar.genruntimeconfig.cache
 c:\GitGrove\ProjetoFar\obj\Debug\net6.0\ref\ProjetoFar.dll
+c:\GitGrove\ProjetoFar\obj\Debug\net6.0\ProjetoFar.sourcelink.json
