@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1piQSHvI19rS70deL1Pt0d5vZoktB3cFYfmxh4b1XEyqMEA94BQkf9SVdKZoLCpQK/AfG2c0zLfOheAFwtuXzA==",
+  "success": true,
+  "projectFilePath": "c:\\GitGrove\\ProjetoFar\\ProjetoFar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaiToso\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\TaiToso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\TaiToso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\TaiToso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
